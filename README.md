@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 
 # <div align="center"> 
-![alt text](https://github.com/Sandeep-Bansal1/CustomerLifetimeValue/blob/main/Pictures/Screen%20Shot%202023-06-19%20at%204.28.25%20AM.png) <pre>
+![alt text](https://github.com/Sandeep-Bansal1/Customer-Churn-Analysis/blob/main/Pictures/test/Screen%20Shot%202023-06-19%20at%205.43.57%20AM.png) <pre>
 Contrubuter  : Sandeep Bansal
 </pre>
 <pre>
